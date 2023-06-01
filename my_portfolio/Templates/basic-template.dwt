@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<title>Aria's Adventures</title>
+
+<link href="../assests/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/bah2hei.css">
+<link rel="stylesheet" href="https://use.typekit.net/bah2hei.css">
+<link rel="stylesheet" href="https://use.typekit.net/bah2hei.css">
+
+<style type="text/css">
+	
+</style>
+
+
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+	  <li><a href="about.html">About</a></li>
+	 <li><a href="blog.html">Blog</a></li>
+	 <li><a href="gallery.html">Gallery</a></li>
+	<li><a href="contact.html">Contact</a></li>
+		
+	</ul>
+	</nav>
+	<!--Begin Floated Elements-->
+<aside> <h3>I'm a student, a sister, a bestfriend, a teenage girl, a web developer in training and a novice photographer, who is eager to learn about lifes challenges and discover the real meaning behind life itself.</h3>
+	<h3>Join me as I go through lifes advenetures and learn new things everyday.</h3>
+	<h3>by Aria Myers</h3>
+	</aside>
+
+	
+ <main>
+	<h1>Page Title</h1>
+     </main>
+	
+		<!--End Floated Elements-->
+<footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
